@@ -1,2 +1,2 @@
-# 30-Days-of-ML-in-Kaggle
+# 30 Days of Mechine Learning in Kaggle
 [Kaggle] Mechine Learning Course (30 Days)
